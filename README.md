@@ -3,8 +3,7 @@ My name is Amanda Andrade .🍁<div><img align="right" alt="output_wTqGqn" src="
 - I'm currently learning Web development.🌱
 - I'm learning Phyton as well.🌱
   <br><br>
-   <a href="https://www.instagram.com/amandadnandrade/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener"></a>
-   	<a href="https://discord.com/channels/@me" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
     <a href = "mailto:amanda.dn.andrade@outlook.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://steamcommunity.com/profiles/76561198043497005/"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/amanda-andrade-a7b3258b/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
