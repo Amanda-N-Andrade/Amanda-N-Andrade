@@ -1,7 +1,6 @@
 # Hello there, welcome!👋
 My name is Amanda Andrade .🍁<div><img align="right" alt="output_wTqGqn" src="https://media.discordapp.net/attachments/447932135916044289/947582723105648660/output_wTqGqn.gif" width=180></div>
-- I'm currently learning Web development.🌱
-- I'm learning Phyton as well.🌱
+- I'm pursuing software development at Bow Valley college🌱
   <br><br>
 
     <a href = "mailto:amanda.dn.andrade@outlook.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
