@@ -32,7 +32,7 @@ me = SoftwareDeveloper()
 me.say_hello()
 ```
 🚀 Connect with me:
-<br>
+<br><br>
 <a href="mailto:amanda.dn.andrade@gmail.com"> 
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
@@ -42,7 +42,9 @@ me.say_hello()
 <a href="https://www.linkedin.com/in/amanda-andrade-a7b3258b/" target="_blank"> 
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<br><br>
 🛠️ Languages and Tools:
+<br>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40">
