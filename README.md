@@ -1,8 +1,6 @@
-# Hello! Welcome to my GitHub profile!
+# Hello There! 👋
 
-My name is **Amanda Andrade**. I'm a **Software Developer** who speaks both **English** and **Portuguese**.
-
-### 🖥️ My Code:
+🖥️ My Code:
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -33,27 +31,32 @@ me.say_hello()
 ```
 🚀 Connect with me:
 <br><br>
+
 <a href="mailto:amanda.dn.andrade@gmail.com"> 
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  
 <a href="https://steamcommunity.com/profiles/76561198043497005/"> 
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
-</a>
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+  
 <a href="https://www.linkedin.com/in/amanda-andrade-a7b3258b/" target="_blank"> 
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  
 <br><br>
 🛠️ Languages and Tools:
 <br>
+
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40">
-  </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"></a> 
+    
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
-  </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"></a> 
+    
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
 </p>
+
+
+![Snake animation](https://raw.githubusercontent.com/Amanda-N-Andrade/Amanda-N-Andrade/output/snake.svg)
+
 
