@@ -57,6 +57,4 @@ me.say_hello()
 </p>
 
 
-![Snake animation](https://raw.githubusercontent.com/Amanda-N-Andrade/Amanda-N-Andrade/output/snake.svg)
-
 
