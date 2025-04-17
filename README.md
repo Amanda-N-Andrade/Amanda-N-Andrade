@@ -5,28 +5,29 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class SoftwareDeveloper:
+class InformationSecurityAnalyst:
 
     def __init__(self):
         self.name = "Amanda Andrade"
-        self.role = "Software Developer"
+        self.role = "Information Security Analyst"
         self.language_spoken = ["English", "Portuguese"]
         self.education = [
             "Bachelor's degree in Production Engineering",
             "MBA in Information Technology Business Management",
-            "Software Development Diploma"
+            "Software Development Diploma",
+            "Google Cybersecurity Certificate"
         ]
         self.hobbies = ["playing games", "reading"]
 
     def say_hello(self):
         print("Hello! Welcome to my profile. I hope you find something here that catches your interest.")
         print(f"My name is {self.name}.")
-        print(f"I am a {self.role}.")
+        print(f"I am an {self.role}.")
         print(f"I speak {', '.join(self.language_spoken)}.")
         print(f"Education: {', '.join(self.education)}.")
         print(f"My hobbies are: {', '.join(self.hobbies)}.")
 
-me = SoftwareDeveloper()
+me = InformationSecurityAnalyst()
 me.say_hello()
 ```
 🚀 Connect with me:
